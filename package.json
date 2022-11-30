@@ -1,0 +1,26 @@
+{
+  "name": "wetube-clone-challenge",
+  "version": "1.0.0",
+  "description": "유튜브 클론 코딩",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayglow0926/wetube-clone-challenge.git"
+  },
+  "author": "dayglow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayglow0926/wetube-clone-challenge/issues"
+  },
+  "homepage": "https://github.com/Dayglow0926/wetube-clone-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
